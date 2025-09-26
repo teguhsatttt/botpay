@@ -1,0 +1,22 @@
+{
+  "telegram_bot_token": "PUT_YOUR_TOKEN",
+  "product": {
+    "name": "VIP Channel",
+    "price_per_month": 23000,
+    "chat_id": -1001234567890
+  },
+  "payments": {
+    "order_prefix": "ORD",
+    "qris_file_id": "",
+    "qris_image_path": "",
+    "qris_image_url": "",
+    "mutasi_url": "https://api.example.com/mutasi",
+    "auth_username": "user_api",
+    "auth_token": "token_api",
+    "poll_interval_sec": 30,
+    "match_window_hours": 24
+  },
+  "admin_chat_ids": [
+    -1008588777
+  ]
+}
